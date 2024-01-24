@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/AstridNielsen-lab/MemoryQuest/main/Memory%20Quest.jpg" alt="MemoryQuest App">
 # MemoryQuest
+
+<img src="https://raw.githubusercontent.com/AstridNielsen-lab/MemoryQuest/main/Memory%20Quest.jpg" alt="MemoryQuest App">
 
 Bem-vindo ao Gerenciador de Memória Caseiro!
 
