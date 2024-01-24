@@ -1,0 +1,15 @@
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\obj\Debug\net7.0\MemoryQuest.csproj.AssemblyReference.cache
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\obj\Debug\net7.0\MemoryQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\obj\Debug\net7.0\MemoryQuest.AssemblyInfoInputs.cache
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\obj\Debug\net7.0\MemoryQuest.AssemblyInfo.cs
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\obj\Debug\net7.0\MemoryQuest.csproj.CoreCompileInputs.cache
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\bin\Debug\net7.0\MemoryQuest.exe
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\bin\Debug\net7.0\MemoryQuest.deps.json
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\bin\Debug\net7.0\MemoryQuest.runtimeconfig.json
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\bin\Debug\net7.0\MemoryQuest.dll
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\bin\Debug\net7.0\MemoryQuest.pdb
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\obj\Debug\net7.0\MemoryQuest.dll
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\obj\Debug\net7.0\refint\MemoryQuest.dll
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\obj\Debug\net7.0\MemoryQuest.pdb
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\obj\Debug\net7.0\MemoryQuest.genruntimeconfig.cache
+C:\Users\Dell\PycharmProjects\MemoryQuest\src\obj\Debug\net7.0\ref\MemoryQuest.dll
