@@ -2,7 +2,7 @@
 
 Bem-vindo ao Gerenciador de Memória Caseiro!
 
-Este é um projeto simples em C# que demonstra a alocação e liberação de memória. Sinta-se à vontade para explorar o código e experimentar.
+Este é um projeto simples em C# que demonstra a alocação, escrita e liberação de memória. Sinta-se à vontade para explorar o código e experimentar.
 
 ## Como Usar
 
@@ -23,6 +23,8 @@ Este é um projeto simples em C# que demonstra a alocação e liberação de mem
     ```bash
     dotnet run
     ```
+
+O programa solicitará o tamanho da memória a ser alocada, e você pode experimentar escrever nessa memória. Ao final, a memória será liberada.
 
 ## Contribuindo
 
