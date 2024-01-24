@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AstridNielsen-lab/BioSecurePay.github.io/master/reconhecer%20digital.jpeg" alt="MemoryQuest App">
+<img src="https://raw.githubusercontent.com/AstridNielsen-lab/MemoryQuest/main/Memory%20Quest.jpg" alt="MemoryQuest App">
 # MemoryQuest
 
 Bem-vindo ao Gerenciador de Memória Caseiro!
