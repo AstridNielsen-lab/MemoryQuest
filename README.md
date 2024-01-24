@@ -2,7 +2,9 @@
 
 Bem-vindo ao Gerenciador de Memória Caseiro!
 
-Este é um projeto simples em C# que demonstra a alocação, escrita e liberação de memória. Sinta-se à vontade para explorar o código e experimentar.
+Este é um projeto simples em C# que demonstra a alocação, escrita e liberação de memória. Por incrível que pareça, escrever na memória em C# é surpreendentemente mais simples do que em outras linguagens, digamos, como Python. Afinal, quem precisa de simplicidade quando se trata de manipular a memória do computador?
+
+Sinta-se à vontade para explorar o código e experimentar, mas cuidado, a simplicidade excessiva pode causar estranhamento.
 
 ## Como Usar
 
@@ -28,7 +30,7 @@ O programa solicitará o tamanho da memória a ser alocada, e você pode experim
 
 ## Contribuindo
 
-Se quiser contribuir, fique à vontade para abrir problemas ou enviar pull requests.
+Se quiser contribuir, fique à vontade para abrir problemas ou enviar pull requests. Estamos sempre abertos a melhorias que tornem o processo de manipulação de memória ainda mais "simples".
 
 ## Licença
 
